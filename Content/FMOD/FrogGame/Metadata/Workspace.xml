@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{3fb9df17-ae3b-464b-b0c8-651defef76fd}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Unreal Projects/Team1/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{5cbbec00-bb89-4478-aaa1-6049147e9a94}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{0f974f8f-0e81-4518-8048-c711091f487f}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{a9110c40-0a62-4838-bd4d-b50ce2f2fb42}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{97ca293f-a196-45e9-986b-cd5795744076}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{dd648d13-f3e2-4758-8baa-5f8e7ffe35ee}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{8175c8bf-58a8-4624-a1b4-3c568f0f02dd}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{dc82fde6-281f-4e23-b4e9-d2a7c91a25d1}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{75065ecc-b9d3-442d-ae36-dc5608a3d046}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{b951968f-9c12-44a5-bd83-55c6a5610078}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{9b61cc1c-e539-4628-b6bf-77b54d403f5f}</destination>
+		</relationship>
+	</object>
+</objects>
