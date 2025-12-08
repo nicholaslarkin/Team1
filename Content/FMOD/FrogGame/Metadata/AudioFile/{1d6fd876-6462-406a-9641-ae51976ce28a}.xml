@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1d6fd876-6462-406a-9641-ae51976ce28a}">
+		<property name="assetPath">
+			<value>swish-swoosh-woosh-sfx-25-357177.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.4240000000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc82fde6-281f-4e23-b4e9-d2a7c91a25d1}</destination>
+		</relationship>
+	</object>
+</objects>

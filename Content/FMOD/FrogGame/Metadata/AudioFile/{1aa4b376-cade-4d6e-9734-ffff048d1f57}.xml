@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1aa4b376-cade-4d6e-9734-ffff048d1f57}">
+		<property name="assetPath">
+			<value>frogfootstep7.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.62693877551020405</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc82fde6-281f-4e23-b4e9-d2a7c91a25d1}</destination>
+		</relationship>
+	</object>
+</objects>
