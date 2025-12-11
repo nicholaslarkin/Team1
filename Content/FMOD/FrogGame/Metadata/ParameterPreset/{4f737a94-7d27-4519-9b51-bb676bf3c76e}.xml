@@ -12,19 +12,17 @@
 		</relationship>
 	</object>
 	<object class="GameParameter" id="{a72557d9-0ce2-4569-abb2-8f2ba55eab3e}">
-		<property name="parameterType">
+		<property name="maximum">
 			<value>2</value>
 		</property>
-		<property name="maximum">
-			<value>3</value>
-		</property>
-		<property name="enumerationLabels">
-			<value>Platforming</value>
-			<value>Climbing</value>
-			<value>Conclusion</value>
+		<property name="isGlobal">
+			<value>true</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
 		</property>
 	</object>
 </objects>
